@@ -11,6 +11,9 @@
 
         <!-- Styles -->
         <style>
+            *{
+                font-family: 'Fraunces', serif !important;  
+            }
             html, body {
                 background-color: #fff;
                 color: #636b6f;
