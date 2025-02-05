@@ -14,7 +14,7 @@
             html, body {
                 background-color: #fff;
                 color: #636b6f;
-                font-family: 'Fraunces', serif;
+                font-family: 'Fraunces', serif !important;
                 font-weight: 100;
                 height: 100vh;
                 margin: 0;
