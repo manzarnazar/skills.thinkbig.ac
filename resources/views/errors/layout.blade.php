@@ -5,15 +5,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>@yield('title')</title>
-
+        
         <!-- Google Fonts -->
         <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-
+        
         <!-- Styles -->
         <style>
-            *{
-                font-family: 'Fraunces', serif !important;  
+            * {
+                font-family: 'Fraunces', serif, sans-serif !important;
             }
+
             html, body {
                 background-color: #fff;
                 color: #636b6f;
@@ -22,11 +23,11 @@
                 height: 100vh;
                 margin: 0;
             }
-
+            
             .full-height {
                 height: 100vh;
             }
-
+            
             .flex-center {
                 align-items: center;
                 display: flex;
@@ -36,16 +37,16 @@
             .position-ref {
                 position: relative;
             }
-
+            
             .content {
                 text-align: center;
             }
-
+            
             .title {
                 font-size: 36px;
                 padding: 20px;
             }
-        </style>
+            </style>
     </head>
     <body>
         <div class="flex-center position-ref full-height">
