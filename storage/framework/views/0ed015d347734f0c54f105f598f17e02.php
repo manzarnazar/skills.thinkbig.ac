@@ -38,7 +38,7 @@
     <script>
         "use strict";
         // Some random colors
-        const colors = ["#00ADAD", "#E3E3E3", "red", "green", "blue"];
+        const colors = ["#BADA55", "#E3E3E3", "red", "green", "blue"];
         const numBalls = 50;
         const balls = [];
         for (let i = 0; i < numBalls; i++) {

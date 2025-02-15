@@ -256,7 +256,7 @@
                     columnWidth: '50%'
                 }
             },
-            colors: ['#00adad', '#67BAA7'],
+            colors: ['#BADA55', '#67BAA7'],
             series: [{
                 name: '@lang("Withdrawals")',
                 type: 'column',
@@ -335,7 +335,7 @@
     stroke: {
         curve: 'smooth'
     },
-    colors: ['#00adad'],
+    colors: ['#BADA55'],
         labels: @json($userLogins['labels']),
     xaxis: {
         type: 'date',

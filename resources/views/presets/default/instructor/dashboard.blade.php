@@ -219,7 +219,7 @@
                     width: [0, 3],
                     curve: 'smooth'
                 },
-                colors: ['#00adad', '#67BAA7'],
+                colors: ['#BADA55', '#67BAA7'],
                 plotOptions: {
                     bar: {
                         columnWidth: '50%'

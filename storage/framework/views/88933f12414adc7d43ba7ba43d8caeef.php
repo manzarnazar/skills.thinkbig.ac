@@ -252,7 +252,7 @@
                     columnWidth: '50%'
                 }
             },
-            colors: ['#00adad', '#67BAA7'],
+            colors: ['#BADA55', '#67BAA7'],
             series: [{
                 name: '<?php echo app('translator')->get("Withdrawals"); ?>',
                 type: 'column',
@@ -331,7 +331,7 @@
     stroke: {
         curve: 'smooth'
     },
-    colors: ['#00adad'],
+    colors: ['#BADA55'],
         labels: <?php echo json_encode($userLogins['labels'], 15, 512) ?>,
     xaxis: {
         type: 'date',
